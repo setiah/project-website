@@ -186,6 +186,6 @@ Checkout this [documentation](https://opensearch.org/docs/latest/clients/java-re
 
 Congratulations! You have now successfully setup the Java high level REST client and connected to OpenSearch on a secure HTTPS channel. 
 
-If you have any ideas or would like to contribute,  
+Hope this post helped you with getting started with OpenSearch in your Java application. Moving forward, we are looking at ways in which we can further simplify the getting started experience for OpenSearch, and would ask for your feedback in [OpenSearch#1618](https://github.com/opensearch-project/OpenSearch/issues/1618)  
 
 If you face any problems or would like to provide some feedback, please comment on this [github issue](https://github.com/opensearch-project/project-website/issues/440). 
